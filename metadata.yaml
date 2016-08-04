@@ -1,0 +1,37 @@
+_repo: The-Innocence-of-Father-Brown_204
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: ''
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '2008-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '204'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Catholics -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Detective and mystery stories, English'
+- !lcsh 'Brown, Father (Fictitious character) -- Fiction'
+- !lcsh 'Clergy -- Fiction'
+- GITenberg
+tableOfContents: The blue cross -- The secret garden -- The queer feet -- The flying
+  stars -- The invisible man -- The honour of Israel Gow -- The wrong shape -- The
+  sins of Prince Saradine -- The hammer of God -- The eye of Apollo -- The sign of
+  the broken sword -- The three tools of death.
+title: The Innocence of Father Brown
+url: http://www.gutenberg.org/ebooks/204
